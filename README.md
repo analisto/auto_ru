@@ -1,8 +1,8 @@
 # Auto.ru Used Car Market — Business Insight Report
 
-> **Data source:** auto.ru/cars/all — Russia's largest automotive marketplace
-> **Dataset:** 222 listings · 51 brands · Model years 1986–2025
-> **Generated:** March 2026
+> - **Data source:** auto.ru/cars/all — Russia's largest automotive marketplace
+> - **Dataset:** 222 listings · 51 brands · Model years 1986–2025
+> - **Generated:** March 2026
 
 ---
 
